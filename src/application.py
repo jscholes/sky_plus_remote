@@ -6,7 +6,7 @@ import sys
 
 title = 'Sky Plus Remote'
 author = 'James Scholes'
-url = 'http://jscholes.net/project/sky-plus-remote/
+url = 'http://jscholes.net/project/sky-plus-remote/'
 version = '0.1'
 internal_name = 'sky_plus_remote'
 debug = True
